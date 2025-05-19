@@ -1,4 +1,5 @@
 <h1><b>Forest Fire Smoke Detection</b></h1><br>
+dataset : https://public.roboflow.com/object-detection/wildfire-smoke <br>
 <h2>Overview</h2>
 <br>
 This project focuses on detecting smoke from forest fires using computer vision techniques. The system utilizes YOLOv11, a state-of-the-art object detection model, trained specifically to identify smoke patterns associated with forest fires from images and video feeds.
